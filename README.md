@@ -1,5 +1,5 @@
 # codealpha_tasks_1M_T1
-My first project of 1 Month CodeAlpha Internship: Making an image gallery
+# My first project of 1 Month CodeAlpha Internship: Making an image gallery
 ![image](https://github.com/user-attachments/assets/9a090856-33bc-439a-8b64-843673deb615)
 
 ![image](https://github.com/user-attachments/assets/431f0775-f37e-44c6-8a4c-aa2b5994e171)
